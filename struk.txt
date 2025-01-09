@@ -1,0 +1,8 @@
+Struk Pembelian:
+----------------------------------------
+Nama: Kacang, Harga: 2000, Jumlah: 2, Subtotal: 4000
+Nama: TikTak, Harga: 3000, Jumlah: 5, Subtotal: 15000
+----------------------------------------
+Total: Rp 19000
+Pembayaran: Rp 20000
+Kembalian: Rp 1000
